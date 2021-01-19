@@ -13,4 +13,4 @@ Dans ce projet, nous devons créer une page html responsive comprenant 3tailles 
 Formation chez Becode janvier 2021 (3ème semaine de formation)
 
 
-Résultat final: https://chardomethomas.github.io/anim-menu/
+Résultat final: https://chardomethomas.github.io/responsive/
