@@ -30,11 +30,10 @@ body{
 @media screen and (min-width: 769px) {
   body{
     background-color: blue;
-        font-size: 30px;
+    font-size: 30px;
   }
   div{
     width: 33%;
-    float: left;
     margin:5px;
   }
 }
